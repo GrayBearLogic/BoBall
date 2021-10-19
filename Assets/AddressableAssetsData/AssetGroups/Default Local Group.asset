@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6c28e00d604a5764da649bedbf8ec55e
+  m_SerializeEntries:
+  - m_GUID: 142ffdb650b34a9438c409f5fca26f39
+    m_Address: Assets/Prefabs and Assets/Gray Zones/Gray Zone 0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Background Zone
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 178224758a5055d428f05580f1a5a51a
+    m_Address: sections/wall/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Wall
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 556cbf7a064c9ea4d8fcd284c897cb02
+    m_Address: Assets/Prefabs and Assets/Color Zones/Color Zone 0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Color Zone
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 899a68b1ed18bcd468c0b04bb4694b95
+    m_Address: Assets/Prefabs and Assets/Color Zones/Color Zone 0 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Color Zone
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e88118ed38c1950458dbbeae9fd77504
+    m_Address: sections/wall/3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Wall
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 50c4a68e2a12a5c4686e9bc5403f4725, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68747a1da04ebeb4395a9910f8ce9d2b, type: 2}
+    - {fileID: 11400000, guid: 11e0e9cd6b964fd4a95cc2f482ff155a, type: 2}
